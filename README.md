@@ -9,4 +9,4 @@ Designed in TinkerCad: https://www.tinkercad.com/things/kgx4EFlos0O-hackaday-fan
 
 Printed at 20% infill on a Prusa i3 in ABS Black.
 
-[https://lh5.googleusercontent.com/-my_PgLBDXPg/UyIOvZtf49I/AAAAAAAABNU/apotCm7RIB0/w1149-h862-no/IMG_20140313_130138.jpg]
+[Image of 3d printed fan guard](https://lh5.googleusercontent.com/-my_PgLBDXPg/UyIOvZtf49I/AAAAAAAABNU/apotCm7RIB0/w1149-h862-no/IMG_20140313_130138.jpg)
