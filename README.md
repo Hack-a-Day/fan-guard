@@ -5,7 +5,7 @@ A 120mm fan guard for 3d printing.
 
 I originally created this for my CNC electronics enclosure to cover the nasty hole I'd made in the case. However, its fun and cool so here you go.
 
-Designed in TinkerCad: https://www.tinkercad.com/things/kgx4EFlos0O-hackaday-fan-guard-120mm/edit
+Designed in TinkerCad: https://www.tinkercad.com/things/kgx4EFlos0O-hackaday-fan-guard-120mm/
 
 Printed at 20% infill on a Prusa i3 in ABS Black.
 
